@@ -1,4 +1,8 @@
-# vue-bootstrap
+# {{ name }}
+
+> {{ description }}
+
+### Usage
 
 This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
@@ -55,5 +59,5 @@ npm run build
 npm test
 ```
 
-### For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
+For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
