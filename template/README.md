@@ -6,17 +6,17 @@
 
 This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
-`` bash
+```
 $ npm install -g vue-cli
 $ vue init zjhiphop/vue-bootstrap my-project
 $ cd my-project
 $ npm install
 $ npm run dev
-``
+```
 
 ### Folder Structure
 
-`` bash
+``` 
 .
 ├── build
 │   ├── dev-server.js         # development server script
@@ -45,7 +45,7 @@ $ npm run dev
 ```
 ## Build Setup
 
-``` bash
+```
 # install dependencies
 npm install
 
@@ -59,5 +59,5 @@ npm run build
 npm test
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+#### For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 =======
