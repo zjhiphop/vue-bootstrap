@@ -1,6 +1,6 @@
 # vue-bootstrap
 
-> Paotuibang Product
+> Product
 
 ## Build Setup
 
