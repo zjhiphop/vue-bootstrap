@@ -1,6 +1,6 @@
 # vue-bootstrap
 
-This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
+> A VueJS + webpack template which used to boot-strap project scaffold. Inspired by https://github.com/vuejs-templates/webpack, but more use case added. This is a project template for [vue-cli](https://github.com/vuejs/vue-cli). 
 
 `` bash
 $ npm install -g vue-cli
