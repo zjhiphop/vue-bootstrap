@@ -30,6 +30,10 @@ $ npm run dev
 │   ├── App.vue               # main app component
 │   ├── components            # ui components
 │   │   └── ...
+│   ├── services              # shared common used service, such as: location,popup
+│   ├── filters               # global used common filters, such as: date
+│   ├── scss                  # global used common css, such as: reset
+│   ├── libs                  # third party js libs (please use minified version)
 │   └── assets                # module assets (processed by webpack)
 │       └── ...
 ├── static                    # pure static assets (directly copied)
